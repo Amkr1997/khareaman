@@ -1,0 +1,25 @@
+{
+  "name": "khareaman",
+  "version": "1.0.0",
+  "description": "An npm package for displaying resume",
+  "main": "index.js",
+  "bin": {
+    "khareaman": "./index.js"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amkr1997/khareaman.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Aman Khare",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Amkr1997/khareaman/issues"
+  },
+  "homepage": "https://github.com/Amkr1997/khareaman#readme"
+}
